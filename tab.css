@@ -1,0 +1,17 @@
+.active1{
+  border-style:unset;
+  background-color:rgb(247, 223, 187);
+  color: rgb(248, 240, 240);
+  border-radius: 5px;
+}
+li:hover {
+    border-style:groove;
+    background-color:rgb(243, 241, 232);
+    color: rgb(248, 240, 240);
+    border-radius: 5px;
+  }
+  .nav-link{
+    font-family:cursive;
+    font-size: larger;
+  }
+ 
